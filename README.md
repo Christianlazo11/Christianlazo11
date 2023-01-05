@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Christian Lazo</h1>
-<h3 align="center">A passionate Developer</h3>
+<h3 align="center">Developer and analyst with a passion for cybersecurity</h3>
 
-- 🌱 I’m currently learning **Azure, Cloud**
+- 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://christianlazoportfolio.netlify.app/](https://christianlazoportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://christianlazoportfolio.netlify.app/](https://christianlazo.vercel.app/)
 
-- 💬 Ask me about **React, NodeJs**
+- 💬 Ask me about **React, NodeJs, **
 
 - 📫 How to reach me **christian-lazo-u@hotmail.com**
 
