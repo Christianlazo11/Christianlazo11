@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christian Lazo</h1>
-<h3 align="center">Developer and analyst with a passion for cybersecurity</h3>
+<h3 align="center">Backend Developer</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://christianlazoportfolio.netlify.app/](https://christianlazo.vercel.app/)
-
-- 💬 Ask me about **React, NodeJs, **
 
 - 📫 How to reach me **christian-lazo-u@hotmail.com**
 
