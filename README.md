@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christian Lazo</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://christianlazoportfolio.netlify.app/](https://christianlazo.vercel.app/)
 
